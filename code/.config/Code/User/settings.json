@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.autoIndentOnPaste": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.wordWrapColumn": 150,
+    "evenBetterToml.formatter.alignComments": false,
+    "evenBetterToml.formatter.allowedBlankLines": 5,
+    "evenBetterToml.formatter.columnWidth": 150,
+    "python.defaultInterpreterPath": "/usr/bin/python3"
+}
