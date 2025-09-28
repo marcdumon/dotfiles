@@ -52,7 +52,27 @@ Shut Down=none,,Shut Down
 _k_friendly_name=Session Management
 
 [kwin]
+Activate Tile 1=none,none,Activate Tile 1
+Activate Tile 10=none,none,Activate Tile 10
+Activate Tile 2=none,none,Activate Tile 2
+Activate Tile 3=none,none,Activate Tile 3
+Activate Tile 4=none,none,Activate Tile 4
+Activate Tile 5=none,none,Activate Tile 5
+Activate Tile 6=none,none,Activate Tile 6
+Activate Tile 7=none,none,Activate Tile 7
+Activate Tile 8=none,none,Activate Tile 8
+Activate Tile 9=none,none,Activate Tile 9
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Activate Window Demanding Attention
+Assign to Tile 1=none,none,Assign to Tile 1
+Assign to Tile 10=none,none,Assign to Tile 10
+Assign to Tile 2=none,none,Assign to Tile 2
+Assign to Tile 3=none,none,Assign to Tile 3
+Assign to Tile 4=none,none,Assign to Tile 4
+Assign to Tile 5=none,none,Assign to Tile 5
+Assign to Tile 6=none,none,Assign to Tile 6
+Assign to Tile 7=none,none,Assign to Tile 7
+Assign to Tile 8=none,none,Assign to Tile 8
+Assign to Tile 9=none,none,Assign to Tile 9
 Cube=Meta+C,none,Toggle Cube
 Cycle Overview=none,none,Cycle through Overview and Grid View
 Cycle Overview Opposite=none,none,Cycle through Grid View and Overview
@@ -66,7 +86,16 @@ Grid View=Meta+G,Meta+G,Toggle Grid View
 Increase Opacity=none,,Increase Opacity of Active Window by 5%
 Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Kill Window
 Move Tablet to Next Output=none,none,Move the tablet to the next output
-MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Centre
+Move Window to the Bottom-Center=none,none,Move Window to the Bottom-Center
+Move Window to the Bottom-Left=none,none,Move Window to the Bottom-Left
+Move Window to the Bottom-Right=none,none,Move Window to the Bottom-Right
+Move Window to the Center=Meta+Num+5,none,Move Window to the Center
+Move Window to the Center-Left=none,none,Move Window to the Center-Left
+Move Window to the Center-Right=Meta+Num+6,none,Move Window to the Center-Right
+Move Window to the Top-Center=Meta+Num+8,none,Move Window to the Top-Center
+Move Window to the Top-Left=Meta+Num+7,none,Move Window to the Top-Left
+Move Window to the Top-Right=Meta+Num+9,none,Move Window to the Top-Right
+MoveMouseToCenter=none,Meta+F6,Move Mouse to Centre
 MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
 MoveZoomDown=none,none,Move Zoomed Area Downwards
 MoveZoomLeft=none,none,Move Zoomed Area to Left
@@ -308,7 +337,7 @@ activate task manager entry 10=none,,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2
 activate task manager entry 3=Meta+3,Meta+3,Activate Task Manager Entry 3
 activate task manager entry 4=Meta+4,Meta+4,Activate Task Manager Entry 4
-activate task manager entry 5=Meta+5,Meta+5,Activate Task Manager Entry 5
+activate task manager entry 5=none,Meta+5,Activate Task Manager Entry 5
 activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
@@ -343,7 +372,4 @@ _launch=Meta+I
 _launch=Ctrl+Shift+D
 
 [services][net.local.toggle_theme.sh-2.desktop]
-_launch=Meta+T
-
-[services][net.local.toggle_theme.sh.desktop]
 _launch=Meta+T
