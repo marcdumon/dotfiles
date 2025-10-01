@@ -119,3 +119,5 @@ fi
 . "$HOME/.local/bin/env"
 export PATH="$HOME/.local/python3.13/bin:$PATH"
 eval "$(uv generate-shell-completion bash)"
+
+. "$HOME/.local/share/../bin/env"

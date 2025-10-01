@@ -1,6 +1,9 @@
+
+
+# Powerlevel10k
+# -------------
 # Disable Powerlevel10k instant prompt
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
-
 
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
@@ -74,4 +77,5 @@ alias l='ls -CF'
 if [[ $- == *i* && -n $PS1 ]]; then
     fastfetch
 fi
+
 
