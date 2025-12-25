@@ -4,5 +4,5 @@ set -e
 cd /home/md/dotfiles
 read -p 'Commit message: ' msg
 git add .
-git commit -m "$msg"
+git commit -m "$msg" || true
 git push -u origin main

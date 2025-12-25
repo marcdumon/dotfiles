@@ -1,1 +1,1 @@
-sudo rsync -aAXHv --numeric-ids /mnt/Backups/timeshift/ /mnt/backup/timeshift/
+sudo rsync -aAXHv --numeric-ids /mnt/Backup/timeshift/ /media/md/Linux_Files/timeshift
