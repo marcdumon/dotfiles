@@ -1,0 +1,186 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=30,87,116
+BackgroundNormal=41,44,48
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Complementary]
+BackgroundAlternate=30,87,116
+BackgroundNormal=32,35,38
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header]
+BackgroundAlternate=32,35,38
+BackgroundNormal=41,44,48
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header][Inactive]
+BackgroundAlternate=41,44,48
+BackgroundNormal=32,35,38
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Selection]
+BackgroundAlternate=30,87,116
+BackgroundNormal=61,174,233
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=252,252,252
+ForegroundInactive=161,169,177
+ForegroundLink=253,188,75
+ForegroundNegative=176,55,69
+ForegroundNeutral=198,92,0
+ForegroundNormal=252,252,252
+ForegroundPositive=23,104,57
+ForegroundVisited=155,89,182
+
+[Colors:Tooltip]
+BackgroundAlternate=32,35,38
+BackgroundNormal=41,44,48
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:View]
+BackgroundAlternate=29,31,34
+BackgroundNormal=20,22,24
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Window]
+BackgroundAlternate=41,44,48
+BackgroundNormal=32,35,38
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[DirSelect Dialog]
+DirSelectDialog Size=960,540
+History Items[$e]=file:///mnt/Dev/active_python_projects/withings_data_collector,file:///mnt/Databases/withings_data_collector_data,file:///mnt/Dev/learning/differential_equations,file:///mnt/Dev/learning/google_kaggle_5day_ai_agents_intensive_course/codelabs,file:///mnt/Dev/learning/google_kaggle_5day_ai_agents_intensive_course/capstone_project,file:///mnt/Dev/learning/kaggle_google_5day_ai_agents_intensive_course,file:///mnt/Dev/active_python_projects/neat_fs,file:///mnt/Dev/learning/kaggle_google_5day_ai_agents_intensive_course/codelabs,file:///mnt/Dev/learning/kaggle_google_5day_ai_agents_intensive_course/notebooks,file:///mnt/Dev/active_python_projects/embedding_research,file:///mnt/Dev/active_python_projects/electricity_analytics,file:///mnt/Dev/active_python_projects/electricity_data,file:$HOME/chrome_extensions/bypass-paywalls-chrome-clean-master,file:$HOME/chrome_extensions/bypass-paywalls-chrome-clean,file:///mnt/Dev/active_pyton_projects/neat_fs,file:$HOME/chrome_extensions/bypass-paywalls-chrome-clean-master,file:///mnt/Dev/active_projects/neat_fs,file:///mnt/Data/my_data,file:$HOME/downloads,file:$HOME/desktop,file:///mnt/Dev/active_projects/duplicate_files_finder,file:///mnt/Data/obsidian/clippings_vault,file:///mnt/Data/obsidian/work_vault,file:///mnt/Media/torrents,file:///mnt/Data/my_data/obsidian/work_vault,file:///mnt/Data/my_data/obsidian/clippings_vault,file:$HOME/my_repo,file:$HOME/temp,file:///mnt/Data/Documents/Obsidian/ObsidianWork,file:///mnt/Data/Documents/Obsidian/WebClippings,file:///mnt/Data,file:///mnt/Media/Music,file:///mnt/Media/Pictures,file:///mnt/Media/Video,file:///mnt/Data/Obsidian/WebClippings,file:///mnt/Data/Obsidian/ObsidianWork,file:///mnt/Media/screenshots,file:///mnt/Data/Data/Obsidian/WebClippings,file:///mnt/Data/Data/Obsidian/ObsidianWork,file:$HOME/00000_Datadrive/Data/Obsidian/ObsidianWork,file:///mnt/Databases/Datadrive/Data/Obsidian/ObsidianWork,file:///mnt/Datadrive/Old_Data,file:///mnt/Datadrive/Screenshots,file:///mnt/Development/1_portfolio/electricity_data,file:///mnt/Development,file:///mnt/Datadrive/Data/Obsidian/WebClippings,file:///mnt/Datadrive/Data/Obsidian/ObsidianWork,file:///mnt/Datadrive/Data/Obsidian_Clippings,file:///mnt/Datadrive/X,file:$HOME/Obsidian_Clippings
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+BrowserApplication=vivaldi-stable.desktop
+ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
+LastUsedCustomAccentColor=248,109,202
+
+[KDE]
+LookAndFeelPackage=org.kde.breezedark.desktop
+ShowDeleteCommand=true
+SingleClick=false
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=Detail
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[Sounds]
+Theme=freedesktop
+
+[WM]
+activeBackground=39,44,49
+activeBlend=252,252,252
+activeForeground=252,252,252
+inactiveBackground=32,36,40
+inactiveBlend=161,169,177
+inactiveForeground=161,169,177

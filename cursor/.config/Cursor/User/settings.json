@@ -1,0 +1,31 @@
+{
+    "breadcrumbs.enabled": false,
+    "cursor.cpp.enablePartialAccepts": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.wordWrapColumn": 150,
+    "evenBetterToml.formatter.alignComments": false,
+    "evenBetterToml.formatter.allowedBlankLines": 5,
+    "evenBetterToml.formatter.columnWidth": 180,
+    "files.autoSave": "afterDelay",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "jupyter.askForKernelRestart": false,
+    "python.venvFolders": [".venv"],
+    // "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "window.autoDetectColorScheme": true,
+    "workbench.colorTheme": "Cursor Light",
+    "workbench.preferredLightColorTheme": "Default Light Modern",
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorCustomizations": { 
+        "gitDecoration.modifiedResourceForeground": "#8bac15",
+        "gitDecoration.stageModifiedResourceForeground": "#8d9241",
+    },
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.tree.indent": 16,
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "ruff.lineLength": 180,
+}
