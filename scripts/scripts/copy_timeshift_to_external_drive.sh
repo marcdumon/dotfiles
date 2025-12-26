@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
 
-# Ensure destination parent exists
-sudo mkdir -p /media/md/Linux_Files/timeshift/snapshots-ondemand/
+DEST="/media/md/Linux_Files/timeshift/snapshots-ondemand/"
+sudo mkdir -p "$DEST"
 
-# Copy the ondemand snapshots
+# Copy each ondemand snapshot
 for snap in /mnt/Backup/timeshift/snapshots-ondemand/*; do
     real_snap=$(readlink -f "$snap")
-    sudo rsync -aAXHv --ignore-existing --numeric-ids "$real_snap/" "/media/md/Linux_Files/timeshift/snapshots-ondemand/$(basename "$snap")/"
+    dest="$DEST$(basename "$snap")"
+    sudo mkdir -p "$dest"
+    sudo rsync -aAXHv --ignore-existing --numeric-ids --inplace "$real_snap/" "$dest/"
 done
 
-# Destination for catalogue
+# Timeshift catalogue
 CATALOGUE="/media/md/Linux_Files/timeshift/0_catalogue.txt"
-
-# Wait for timeshift to be free
 while true; do
     OUTPUT=$(sudo timeshift --list 2>&1)
     if echo "$OUTPUT" | grep -q "Another instance of this application is running"; then
