@@ -21,3 +21,8 @@ To stow all packages at once:
 cd ~/dotfiles
 stow */
 ```
+To push changes to github:
+```bash
+push_dotfiles.sh
+```
+
