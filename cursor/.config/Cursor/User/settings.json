@@ -28,4 +28,7 @@
     "workbench.tree.indent": 16,
     "workbench.preferredDarkColorTheme": "Default Dark Modern",
     "ruff.lineLength": 180,
+    "cursor.composer.shouldChimeAfterChatFinishes": true,
+    "cursor.composer.usageSummaryDisplay": "always",
+    "python.analysis.typeCheckingMode": "standard",
 }
