@@ -248,65 +248,6 @@ playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
 
-[org.kde.konsole]
-7A4A235EB88D6C018AEB13D7149EF713-quick_clip=none,none,Quick clip
-7A4A235EB88D6C018AEB13D7149EF713-toggle_highlighter=none,none,Toggle highlighter mode
-7A4A235EB88D6C018AEB13D7149EF713-toggle_reader=none,none,Toggle reading view
-7B0D4CDC9BB01107825239159B52A592-launch-element-picker=none,none,Enter element picker mode
-7B0D4CDC9BB01107825239159B52A592-launch-element-zapper=none,none,Enter element zapper mode
-7B0D4CDC9BB01107825239159B52A592-launch-logger=none,none,Open the logger
-7B0D4CDC9BB01107825239159B52A592-open-dashboard=none,none,Open the dashboard
-7B0D4CDC9BB01107825239159B52A592-relax-blocking-mode=none,none,Relax blocking mode
-7B0D4CDC9BB01107825239159B52A592-toggle-cosmetic-filtering=none,none,Toggle cosmetic filtering
-7B0D4CDC9BB01107825239159B52A592-toggle-javascript=none,none,Toggle JavaScript
-8535FD862FA046B9E0A1F5F2DF0B8A46-c000-options-page=none,none,Open the options page
-8535FD862FA046B9E0A1F5F2DF0B8A46-c020-theme-youtube-dark=none,none,Theme: YouTube™ (Dark)
-8535FD862FA046B9E0A1F5F2DF0B8A46-c025-theme-enhanced-dark=none,none,Theme: Enhancer for YouTube™
-8535FD862FA046B9E0A1F5F2DF0B8A46-c030-theme-youtube-deep-dark=none,none,Theme: YouTube-DeepDark
-8535FD862FA046B9E0A1F5F2DF0B8A46-c040-theme-youtube-deep-dark-custom=none,none,Theme: YouTube-DeepDark (Custom)
-8535FD862FA046B9E0A1F5F2DF0B8A46-c050-theme-custom-theme=none,none,Theme: Custom theme
-8535FD862FA046B9E0A1F5F2DF0B8A46-c060-focus-video-player=none,none,Set focus on the video player
-8535FD862FA046B9E0A1F5F2DF0B8A46-c070-toggle-loop=none,none,Toggle the loop mode
-8535FD862FA046B9E0A1F5F2DF0B8A46-c080-stop-video=none,none,Stop the video
-8535FD862FA046B9E0A1F5F2DF0B8A46-c090-reverse-playlist=none,none,Reverse the playlist order
-8535FD862FA046B9E0A1F5F2DF0B8A46-c100-toggle-volume-booster=none,none,Toggle the volume booster
-8535FD862FA046B9E0A1F5F2DF0B8A46-c130-toggle-annotations=none,none,Toggle info cards and end screens visibility
-8535FD862FA046B9E0A1F5F2DF0B8A46-c140-toggle-cinema-mode=none,none,Toggle the cinema mode
-8535FD862FA046B9E0A1F5F2DF0B8A46-c150-toggle-player-size=none,none,Expand or shrink the video player
-8535FD862FA046B9E0A1F5F2DF0B8A46-c160-center-video-player=none,none,Centre the video player within the viewport
-8535FD862FA046B9E0A1F5F2DF0B8A46-c170-pop-up-player=none,none,Watch with the pop-up player
-8535FD862FA046B9E0A1F5F2DF0B8A46-c180-decrease-speed=none,none,Decrease the playback speed
-8535FD862FA046B9E0A1F5F2DF0B8A46-c190-increase-speed=none,none,Increase the playback speed
-8535FD862FA046B9E0A1F5F2DF0B8A46-c200-default-speed=none,none,Select the default playback speed
-8535FD862FA046B9E0A1F5F2DF0B8A46-c210-normal-speed=none,none,Select the normal playback speed
-8535FD862FA046B9E0A1F5F2DF0B8A46-c220-toggle-video-filters=none,none,Toggle the video filters
-8535FD862FA046B9E0A1F5F2DF0B8A46-c230-flip-horizontally=none,none,Flip the video horizontally
-8535FD862FA046B9E0A1F5F2DF0B8A46-c240-flip-vertically=none,none,Flip the video vertically
-8535FD862FA046B9E0A1F5F2DF0B8A46-c250-take-screenshot=none,none,Take a screenshot of the video
-8535FD862FA046B9E0A1F5F2DF0B8A46-c260-keyboard-shortcuts=none,none,Display all the keyboard shortcuts for YouTube
-8535FD862FA046B9E0A1F5F2DF0B8A46-c270-custom-script=none,none,Execute the custom script
-8535FD862FA046B9E0A1F5F2DF0B8A46-c280-picture-in-picture=none,none,Toggle the Picture-in-Picture mode
-8535FD862FA046B9E0A1F5F2DF0B8A46-c290-quality-highres=none,none,Select the playback quality ‘4320p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c300-quality-hd2880=none,none,Select the playback quality ‘2880p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c310-quality-hd2160=none,none,Select the playback quality ‘2160p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c320-quality-hd1440=none,none,Select the playback quality ‘1440p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c330-quality-hd1080=none,none,Select the playback quality ‘1080p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c340-quality-hd720=none,none,Select the playback quality ‘720p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c350-quality-large=none,none,Select the playback quality ‘480p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c360-quality-medium=none,none,Select the playback quality ‘360p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c370-quality-small=none,none,Select the playback quality ‘240p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c380-quality-tiny=none,none,Select the playback quality ‘144p’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c390-quality-auto=none,none,Select the playback quality ‘Auto’
-8535FD862FA046B9E0A1F5F2DF0B8A46-c400-comments-visibility=none,none,Toggle comments visibility
-8535FD862FA046B9E0A1F5F2DF0B8A46-c410-related-videos-visibility=none,none,Toggle related videos visibility
-AEF34B8296F51F87ECAE409901764037-dismiss-most-recent-notification=none,none,Dismiss the most recent notification
-AEF34B8296F51F87ECAE409901764037-instant-push-current-tab=none,none,Instantly push the current tab (configure in Options)
-AEF34B8296F51F87ECAE409901764037-pop-out-panel=none,none,Pop out the push panel
-CE6179C3C4AA90B284F6265CDDA80DA1-addSite=none,none,Toggle current site
-CE6179C3C4AA90B284F6265CDDA80DA1-switchEngine=none,none,Theme generation mode
-CE6179C3C4AA90B284F6265CDDA80DA1-toggle=none,none,Toggle extension
-_k_friendly_name=Konsole
-
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
 Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Decrease Screen Brightness
@@ -368,3 +309,6 @@ _launch=Ctrl+Shift+D
 
 [services][net.local.toggle_theme.sh-2.desktop]
 _launch=Meta+T
+
+[services][org.kde.kcharselect.desktop]
+_launch=F8
