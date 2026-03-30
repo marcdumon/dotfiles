@@ -177,6 +177,7 @@ MaximumRemoteSize=0
 [Shortcuts]
 Paste=Ctrl+V
 Paste Selection=
+Reload=Refresh; F5
 
 [Sounds]
 Theme=freedesktop
