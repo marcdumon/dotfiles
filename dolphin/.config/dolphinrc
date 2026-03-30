@@ -43,6 +43,9 @@ warnAboutRisksBeforeActingAsAdmin=false
 [PreviewSettings]
 Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,FreeCAD,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gdk-pixbuf-thumbnailer,gsthumbnail,rawthumbnail,svgthumbnail,textthumbnail,ffmpegthumbs
 
+[Search]
+SearchTool=Baloo
+
 [VersionControl]
 enabledPlugins=Git,Dropbox
 
