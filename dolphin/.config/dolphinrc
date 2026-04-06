@@ -4,7 +4,7 @@ UseShortRelativeDates=false
 
 [DetailsMode]
 PreviewSize=16
-RightPadding=1
+RightPadding=0
 
 [ExtractDialog]
 2 screens: Height=480
