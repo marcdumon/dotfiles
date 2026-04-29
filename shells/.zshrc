@@ -32,6 +32,11 @@ if [ ! -d "$P10K_DIR" ]; then
 	git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "$P10K_DIR"
 fi
 
+# CUDA
+# ----
+export PATH=/usr/local/cuda/bin:$PATH
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+
 # Load p10k theme
 #----------------
 source ~/.local/share/powerlevel10k/powerlevel10k.zsh-theme

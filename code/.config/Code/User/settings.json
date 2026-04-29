@@ -10,5 +10,9 @@
     "python.defaultInterpreterPath":  "${workspaceFolder}/.venv/bin/python",
     "python.analysis.typeCheckingMode": "standard",
     "claudeCode.useTerminal": true,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "jupyter.askForKernelRestart": false,
+    "workbench.colorTheme": "Light 2026",
+    "terminal.integrated.shellIntegration.environmentReporting": true,
+    "python.terminal.useEnvFile": true
 }
