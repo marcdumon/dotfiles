@@ -12,7 +12,11 @@
     "claudeCode.useTerminal": true,
     "git.autofetch": true,
     "jupyter.askForKernelRestart": false,
-    "workbench.colorTheme": "Light 2026",
     "terminal.integrated.shellIntegration.environmentReporting": true,
-    "python.terminal.useEnvFile": true
+    "python.terminal.useEnvFile": true,
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "workbench.colorTheme": "Light 2026"
 }
